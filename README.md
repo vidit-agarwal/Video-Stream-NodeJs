@@ -10,17 +10,16 @@ Demo application for video streaming using NodeJs and HTML5
 2) Place any video in the asset folder
 <br>
 3) Now type the following command :
-<br>
-```node
+
+```nodejs
 npm install
 ``` 
-<br>
 
 ```nodejs
 npm start
 ``` 
 <br>
- 4) Now open the browser and type : ```text
+ 5) Now open the browser and type : ```text
  localhost:3000```
  <br>
  
