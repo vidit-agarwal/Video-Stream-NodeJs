@@ -11,8 +11,15 @@ Demo application for video streaming using NodeJs and HTML5
 <br>
 3) Now type the following command :
 <br>
-`npm install` <br>
-`npm start` <br>
+```nodejs
+npm install
+``` 
+<br>
+
+```nodejs
+npm start
+``` 
+<br>
  4) Now open the browser and type : `localhost:3000` <br>
  
 
