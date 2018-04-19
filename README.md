@@ -19,8 +19,7 @@ npm install
 npm start
 ``` 
 <br>
- 5) Now open the browser and type : ```text
- localhost:3000```
+ 5) Now open the browser and type : **localhost:3000**
  <br>
  
 
